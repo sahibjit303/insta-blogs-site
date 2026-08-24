@@ -1,0 +1,35 @@
+.blogs {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: beige;
+}
+
+
+a{
+    text-decoration: none;
+    color: violet;
+    margin-left: 10px;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+.user {
+    color: tomato;
+}
+
+.content {
+    color: turquoise;
+    border: 1px solid black;
+}
+
+.createblog {
+    color: chocolate;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
